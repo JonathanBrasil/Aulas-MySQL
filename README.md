@@ -22,3 +22,7 @@
 
  
 <!--te-->
+
+<h4 align="center"> 
+	🚧  Aulas e atividades 🚀 Em construção...  🚧
+</h4>
