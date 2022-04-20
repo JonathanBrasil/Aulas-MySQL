@@ -12,7 +12,7 @@
 <br>
 <!--ts-->
    
-   * [Atividade 01](#https://github.com/JonathanBrasil/Aulas-MySQL/blob/main/Atividade%2001.sql)
+   * [Atividade 01](#Atividade%2001.sql)
       * Crie um banco de dados para um serviço de RH de uma empresa, onde o sistema trabalhará com as informações dos colaboradores;
         Determine 5 atributos relevantes dos colaboradores;
         Insira nesta tabela no mínimo 5 dados;
