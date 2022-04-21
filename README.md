@@ -4,11 +4,11 @@
 
 <p align="center"> 📁 Aulas e exercícios de banco de dados e MySQL do Bootcamp Generation BR </p>
 <br>
+<br>
 
 
 
-
-# Atividade prática - Banco de dados Relacional
+<h3> Lista de atividades práticas - Banco de dados Relacional </h3>
 <br>
 <!--ts-->
    
