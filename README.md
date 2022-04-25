@@ -35,7 +35,7 @@ Modelagem de Dados - Introdução
 <br>
 <!--ts-->
    
-   * [Atividade 03](Atividade%2001.sql)
+   * [Atividade 03](https://github.com/JonathanBrasil/Aulas-MySQL/tree/main/Aula%2003)
       * Crie um banco de dados para um serviço de uma Farmácia. O nome do Banco de dados deverá ter o seguinte nome db_farmacia_bem_estar.
      	Insira 5 registros na tabela tb_categorias; 
 	Insira 8 registros na tabela tb_produtos, preenchendo a Chave Estrangeira para criar a relação com a tabela tb_categorias; 
