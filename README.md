@@ -7,7 +7,8 @@
 <br>
 
 
-
+<h2> AULA 01 e 02</h2>
+Introdução, Scripts, 
 <h3> Lista de atividades práticas - Banco de dados Relacional </h3>
 <br>
 <!--ts-->
@@ -20,9 +21,34 @@
           
    * [Atividade 02](Atividade%2002.sql)
  	 * Crie um banco de dados para um e-commerce, onde o sistema trabalhará com as informações dos produtos; Crie uma tabela de produtos e determine 5 atributos relevantes dos produtos para se trabalhar com o serviço deste e-commerce;  Faça um SELECT que retorne todes os produtos com o valor maior do que 500 e depois um que retorne valores menores que 500; Ao término atualize um registro desta tabela através de uma query de atualização.
-
  
 <!--te-->
+<br>
+<h2> AULA 03</h2>
+Modelagem de Dados - Introdução
+- Representar o ambiente observado
+- Documentar e normalizar
+- Fornecer processos de validação
+- Observar processos de relacionamentos entre objetos
+- 
+<h3> Lista de atividades práticas - Modelagem de Dados </h3>
+<br>
+<!--ts-->
+   
+   * [Atividade 03](Atividade%2001.sql)
+      * Crie um banco de dados para um serviço de uma Farmácia. O nome do Banco de dados deverá ter o seguinte nome db_farmacia_bem_estar.
+     	Insira 5 registros na tabela tb_categorias; 
+	Insira 8 registros na tabela tb_produtos, preenchendo a Chave Estrangeira para criar a relação com a tabela tb_categorias; 
+	Faça um SELECT que retorne todes os produtos cujo valor seja maior do que R$ 50,00; 
+	Faça um SELECT que retorne todes os produtos cujo valor esteja no intervalo R$ 5,00 e R$ 60,00; 
+	Faça um SELECT utilizando o operador LIKE, buscando todes os produtos que possuam a letra C no atributo nome; 
+	Faça um SELECT utilizando a cláusula INNER JOIN, unindo os dados da tabela tb_produtos com os dados da tabela tb_categorias.
+
+          
+ 
+<!--te-->
+<br>
+
 
 <h4 align="center"> 
 	🚧  Aulas e atividades 🚀 Em construção...  🚧
