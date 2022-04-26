@@ -1,19 +1,17 @@
 <h1 align="center">
- <img src="https://i.gifer.com/origin/4c/4ced19632c5a410e3319d159e160bb30.gif" width="80"> Aulas-MySQL
+ <img src="https://i.gifer.com/origin/4c/4ced19632c5a410e3319d159e160bb30.gif" width="80"> Aula 03 - MySQL
 </h1>
 
-<p align="center"> 📁 Aulas e exercícios de banco de dados e MySQL do Bootcamp Generation BR </p>
-<br>
-<br>
+<h2 align="center"> 📂 Modelagem de Dados - Introdução </h2>
 
 
-<h2> AULA 03</h2>
-Modelagem de Dados - Introdução
-- Representar o ambiente observado
-- Documentar e normalizar
-- Fornecer processos de validação
-- Observar processos de relacionamentos entre objetos
-- 
+Modelagem de dados significa criar um Modelo que explique as características de funcionamento e comportamento de um Software a partir do qual ele será criado, facilitando seu entendimento e seu projeto, através das características principais que evitarão erros de programação, projeto e funcionamento.
+<br>
+Modelagem do Banco de dados é o processo de levantamento, análise, categorização e exploração de todos os dados e tipos de informações que irão sustentar uma aplicação. Esta é uma etapa primordial no trabalho do desenvolvimento de sistemas, porque todo software é criado com determinados objetivos, para atender às necessidades dos usuários dentro deste cenário. 
+
+<br>
+
+ 
 <h3> Lista de atividades práticas - Modelagem de Dados </h3>
 <br>
 <!--ts-->
