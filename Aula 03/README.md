@@ -24,12 +24,18 @@ Modelagem de Dados - Introdução
 * [Atividade 03](https://github.com/JonathanBrasil/Aulas-MySQL/tree/main/Aula%2003)
     
     * Crie um banco de dados para um serviço de uma Farmácia. O nome do Banco de dados deverá ter o seguinte nome db_farmacia_bem_estar.
-     	Insira 5 registros na tabela tb_categorias; 
-	Insira 8 registros na tabela tb_produtos, preenchendo a Chave Estrangeira para criar a relação com a tabela tb_categorias; 
-	Faça um SELECT que retorne todes os produtos cujo valor seja maior do que R$ 50,00; 
-	Faça um SELECT que retorne todes os produtos cujo valor esteja no intervalo R$ 5,00 e R$ 60,00; 
-	Faça um SELECT utilizando o operador LIKE, buscando todes os produtos que possuam a letra C no atributo nome; 
-	Faça um SELECT utilizando a cláusula INNER JOIN, unindo os dados da tabela tb_produtos com os dados da tabela tb_categorias.
+    * Insira 5 registros na tabela tb_categorias; 
+    * Insira 8 registros na tabela tb_produtos, preenchendo a Chave Estrangeira para criar a relação com a tabela tb_categorias; 
+    * Faça um SELECT que retorne todes os produtos cujo valor seja maior do que R$ 50,00; 
+    * Faça um SELECT que retorne todes os produtos cujo valor esteja no intervalo R$ 5,00 e R$ 60,00;
+    * Faça um SELECT utilizando o operador LIKE, buscando todes os produtos que possuam a letra C no atributo nome;
+    * Faça um SELECT utilizando a cláusula INNER JOIN, unindo os dados da tabela tb_produtos com os dados da tabela tb_categorias.
+     	
+	
+	
+	 
+	 
+	
 
           
  
