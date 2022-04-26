@@ -10,7 +10,7 @@
 <h2> Lista de Aulas </h2>
 <br>
    
-   * [AULA 01 e 02](https://github.com/JonathanBrasil/Aulas-MySQL/tree/main/Aula%2001%20e%2002)
+   * [Aulas 01 e 02](https://github.com/JonathanBrasil/Aulas-MySQL/tree/main/Aula%2001%20e%2002)
    	
 	* Introdução ao MySQL - Conceitos de Script - Atividades 
          
