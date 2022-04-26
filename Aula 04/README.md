@@ -7,7 +7,13 @@
 <br>
 
 
-<h2> AULA 04 - Diagrama de Entidade Relacionamento</h2>
+<h2> AULA 04 - Diagrama de Entidade Relacionamento (DER) no MySQL Workbench</h2>
+
+Um Diagrama Entidade Relacionamento (DER) é um Fluxograma que ilustra como as “Entidades” (Usuários, Produtos, Postagens), se relacionam entre si dentro de um sistema de Banco de dados Relacional.
+
+Os Diagramas DER são usados principalmente para modelar e criar bancos de dados relacionais, em termos de regras lógicas e regras de negócio dentro de um modelo lógico de dados.
+
+<br>
 
 <h3> Lista de atividades práticas </h3>
 <br>
