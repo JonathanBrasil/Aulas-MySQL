@@ -24,15 +24,6 @@ Introdução, Scripts,
  
 <!--te-->
 <br>
-<h2> AULA 03</h2>
-Modelagem de Dados - Introdução
-- Representar o ambiente observado
-- Documentar e normalizar
-- Fornecer processos de validação
-- Observar processos de relacionamentos entre objetos
-- 
-<h3> Lista de atividades práticas - Modelagem de Dados </h3>
-<br>
 
 
 
