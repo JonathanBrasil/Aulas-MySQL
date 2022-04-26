@@ -6,7 +6,9 @@
 
 
 Modelagem de dados significa criar um Modelo que explique as características de funcionamento e comportamento de um Software a partir do qual ele será criado, facilitando seu entendimento e seu projeto, através das características principais que evitarão erros de programação, projeto e funcionamento.
+
 <br>
+
 Modelagem do Banco de dados é o processo de levantamento, análise, categorização e exploração de todos os dados e tipos de informações que irão sustentar uma aplicação. Esta é uma etapa primordial no trabalho do desenvolvimento de sistemas, porque todo software é criado com determinados objetivos, para atender às necessidades dos usuários dentro deste cenário. 
 
 <br>
