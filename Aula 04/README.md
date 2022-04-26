@@ -19,14 +19,16 @@ Os Diagramas DER são usados principalmente para modelar e criar bancos de dados
 <br>
 <!--ts-->
    
-   * [Atividade Aula](Atividade%2001.sql)
-      * Crie um banco de dados para um serviço de RH de uma empresa, onde o sistema trabalhará com as informações dos colaboradores;
-        Determine 5 atributos relevantes dos colaboradores;
-        Insira nesta tabela no mínimo 5 dados;
-        Fazer um select  que retorne todes os colaboradores com o salário maior do que 2000 e depois um que retorne salário menor que 2000.
+   * [Atividade Aula](https://github.com/JonathanBrasil/Aulas-MySQL/blob/main/Aula%2004/Aula%2004.sql)
+      * Revisando os conceitos da aula passada, utilizando relação com 2 chaves estrangeiras e 3 tabelas. 
           
    * [Atividade 01](Atividade%2002.sql)
- 	 * Crie um banco de dados para um e-commerce, onde o sistema trabalhará com as informações dos produtos; Crie uma tabela de produtos e determine 5 atributos relevantes dos produtos para se trabalhar com o serviço deste e-commerce;  Faça um SELECT que retorne todes os produtos com o valor maior do que 500 e depois um que retorne valores menores que 500; Ao término atualize um registro desta tabela através de uma query de atualização.
+ 	 * Construa o Diagrama de Entidade Relacionamento (DER) do projeto Blog Pessoal no MySQL Workbench conforme o modelo abaixo:
+ 	 - Gere o arquivo PDF contendo o DER
+	 - Gere a imagem PNG do DER
+	 - Gere o código SQL do DER
+ 	 
+	 <p  align="center"> <img src="https://i.ibb.co/4R21ZNq/modelo.png"  width="500"> </p>
  
 <!--te-->
 <br>
