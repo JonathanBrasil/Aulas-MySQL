@@ -22,7 +22,7 @@ Os Diagramas DER são usados principalmente para modelar e criar bancos de dados
    * [Atividade Aula](https://github.com/JonathanBrasil/Aulas-MySQL/blob/main/Aula%2004/Aula%2004.sql)
       * Revisando os conceitos da aula passada, utilizando relação com 2 chaves estrangeiras e 3 tabelas. 
           
-   * [Atividade 01](Atividade%2002.sql)
+   * [Atividade 01](https://github.com/JonathanBrasil/Aulas-MySQL/tree/main/Aula%2004/Atividade%2001)
  	 * Construa o Diagrama de Entidade Relacionamento (DER) do projeto Blog Pessoal no MySQL Workbench conforme o modelo abaixo:
  	 - Gere o arquivo PDF contendo o DER
 	 - Gere a imagem PNG do DER
